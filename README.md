@@ -2,7 +2,7 @@
 
 
 
-<h2>Top 2020 Kali Linux HD+ WallPapers Collection Made For You<h2/>
+<h2>Top 2020 Kali Linux HD+ WallPapers Collection Made For You</h2>
 
 
 
