@@ -4,7 +4,7 @@
 
 <h2>Top 2020 Kali Linux HD+ WallPapers Collection Made For You</h2>
 
-<code>cd Pictures</code>
+<code>cd Pictures</code><br>
 <code>git clone https://github.com/CyberTech-YT/Kali-Linux-Wallpapers-Full-HD.git</code>
 
 Open Your Pictures Directory. There You Can Find Kali-Linux-Wallpapers-Full-HD Directory.
